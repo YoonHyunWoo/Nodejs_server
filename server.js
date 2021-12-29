@@ -23,4 +23,4 @@ const server = http.createServer((request, response)=>{
 //listen(PORT, function)으로 서버를 실행시켜준다.
 server.listen(80,()=>{
     console.log("Server_running..");
-})
+}) 
