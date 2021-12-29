@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.17.2"
   },
-  "scripts": {
+  "scripts": { 
     "start": "node server.js"
   },
   "name": "workspaces",
