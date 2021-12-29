@@ -1,3 +1,2 @@
 # Nodejs_server
-Nodejs를 이용한 서버 구현 <br>
-server.js를 실행시키면 된다.
+Nodejs를 이용한 서버를 구현하였다.
